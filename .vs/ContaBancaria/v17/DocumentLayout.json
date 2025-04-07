@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\tiago\\source\\repos\\ContaBancaria\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A0DD1ADC-8649-4621-9765-555D9C4D476E}|ConsoleApp1\\ContaBancaria.csproj|c:\\users\\tiago\\source\\repos\\contabancaria\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0DD1ADC-8649-4621-9765-555D9C4D476E}|ConsoleApp1\\ContaBancaria.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A0DD1ADC-8649-4621-9765-555D9C4D476E}|ContaBancaria\\ContaBancaria.csproj|c:\\users\\tiago\\source\\repos\\contabancaria\\contabancaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DD1ADC-8649-4621-9765-555D9C4D476E}|ContaBancaria\\ContaBancaria.csproj|solutionrelative:contabancaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0DD1ADC-8649-4621-9765-555D9C4D476E}|ConsoleApp1\\ContaBancaria.csproj|c:\\users\\tiago\\source\\repos\\contabancaria\\consoleapp1\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0DD1ADC-8649-4621-9765-555D9C4D476E}|ConsoleApp1\\ContaBancaria.csproj|solutionrelative:consoleapp1\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A0DD1ADC-8649-4621-9765-555D9C4D476E}|ContaBancaria\\ContaBancaria.csproj|c:\\users\\tiago\\source\\repos\\contabancaria\\contabancaria\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DD1ADC-8649-4621-9765-555D9C4D476E}|ContaBancaria\\ContaBancaria.csproj|solutionrelative:contabancaria\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,26 +28,26 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Conta.cs",
-              "DocumentMoniker": "C:\\Users\\tiago\\source\\repos\\ContaBancaria\\ConsoleApp1\\Conta.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Conta.cs",
-              "ToolTip": "C:\\Users\\tiago\\source\\repos\\ContaBancaria\\ConsoleApp1\\Conta.cs",
-              "RelativeToolTip": "ConsoleApp1\\Conta.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA0AAAA",
+              "DocumentMoniker": "C:\\Users\\tiago\\source\\repos\\ContaBancaria\\ContaBancaria\\Conta.cs",
+              "RelativeDocumentMoniker": "ContaBancaria\\Conta.cs",
+              "ToolTip": "C:\\Users\\tiago\\source\\repos\\ContaBancaria\\ContaBancaria\\Conta.cs",
+              "RelativeToolTip": "ContaBancaria\\Conta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T15:08:22.995Z",
+              "WhenOpened": "2025-04-07T13:40:50.353Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tiago\\source\\repos\\ContaBancaria\\ConsoleApp1\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\tiago\\source\\repos\\ContaBancaria\\ConsoleApp1\\Program.cs",
-              "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\tiago\\source\\repos\\ContaBancaria\\ContaBancaria\\Program.cs",
+              "RelativeDocumentMoniker": "ContaBancaria\\Program.cs",
+              "ToolTip": "C:\\Users\\tiago\\source\\repos\\ContaBancaria\\ContaBancaria\\Program.cs",
+              "RelativeToolTip": "ContaBancaria\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T15:08:26.141Z",
+              "WhenOpened": "2025-04-07T13:40:49.267Z",
               "EditorCaption": ""
             }
           ]

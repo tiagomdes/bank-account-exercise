@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContaBancaria", "ConsoleApp1\ContaBancaria.csproj", "{A0DD1ADC-8649-4621-9765-555D9C4D476E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContaBancaria", "ContaBancaria\ContaBancaria.csproj", "{A0DD1ADC-8649-4621-9765-555D9C4D476E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

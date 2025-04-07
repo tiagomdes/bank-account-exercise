@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 
-namespace ConsoleApp1
+namespace ContaBancaria
 {
     internal class Program
     {
